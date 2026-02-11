@@ -1,2 +1,2 @@
 genome Ddrac_allCombined_trinity_assembled
-twoBitPath Ddrac_allCombined_trinity_assembled.2bit
+twoBitPath https://github.com/<username>/DdracHub/releases/download/v1.0/Ddrac_allCombined_trinity_assembled.2bit
