@@ -1,0 +1,4 @@
+hub DdracHub
+shortLabel Ddrac Genome
+longLabel Ddrac_allCombined_trinity_assembled Custom Genome
+genomesFile genomes.txt

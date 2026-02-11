@@ -1,0 +1,2 @@
+genome Ddrac_allCombined_trinity_assembled
+twoBitPath Ddrac_allCombined_trinity_assembled.2bit
